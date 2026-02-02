@@ -1,0 +1,3745 @@
+{
+  "realEstate": [
+    {
+      "name": "العليا",
+      "avgPriceM2": 3441,
+      "transactionCount": 1,
+      "totalVolume": 2300000,
+      "tier": "Elite"
+    },
+    {
+      "name": "إشبيليا",
+      "avgPriceM2": 2801,
+      "transactionCount": 4,
+      "totalVolume": 8704587,
+      "tier": "Elite"
+    },
+    {
+      "name": "العزيزية",
+      "avgPriceM2": 1775,
+      "transactionCount": 2,
+      "totalVolume": 1170000,
+      "tier": "High"
+    },
+    {
+      "name": "المجد",
+      "avgPriceM2": 1700,
+      "transactionCount": 1,
+      "totalVolume": 849966,
+      "tier": "High"
+    },
+    {
+      "name": "الملك عبدالله",
+      "avgPriceM2": 1673,
+      "transactionCount": 2,
+      "totalVolume": 1670000,
+      "tier": "High"
+    },
+    {
+      "name": "الجامعيين",
+      "avgPriceM2": 1666,
+      "transactionCount": 4,
+      "totalVolume": 1550000,
+      "tier": "High"
+    },
+    {
+      "name": "الشفاء",
+      "avgPriceM2": 1653,
+      "transactionCount": 13,
+      "totalVolume": 12545256,
+      "tier": "High"
+    },
+    {
+      "name": "المزعبر",
+      "avgPriceM2": 1624,
+      "transactionCount": 4,
+      "totalVolume": 1493000,
+      "tier": "High"
+    },
+    {
+      "name": "النقرة",
+      "avgPriceM2": 1573,
+      "transactionCount": 15,
+      "totalVolume": 8590141.17,
+      "tier": "High"
+    },
+    {
+      "name": "المصيف",
+      "avgPriceM2": 1514,
+      "transactionCount": 13,
+      "totalVolume": 9120814,
+      "tier": "High"
+    },
+    {
+      "name": "صبابة",
+      "avgPriceM2": 1445,
+      "transactionCount": 3,
+      "totalVolume": 1964808,
+      "tier": "High"
+    },
+    {
+      "name": "لؤلؤة قفار",
+      "avgPriceM2": 1412,
+      "transactionCount": 3,
+      "totalVolume": 1764990,
+      "tier": "High"
+    },
+    {
+      "name": "الجبل",
+      "avgPriceM2": 1304,
+      "transactionCount": 35,
+      "totalVolume": 20424764,
+      "tier": "High"
+    },
+    {
+      "name": "صديان",
+      "avgPriceM2": 1264,
+      "transactionCount": 3,
+      "totalVolume": 1673974,
+      "tier": "High"
+    },
+    {
+      "name": "المملكة",
+      "avgPriceM2": 1264,
+      "transactionCount": 4,
+      "totalVolume": 2467286,
+      "tier": "High"
+    },
+    {
+      "name": "المطار",
+      "avgPriceM2": 1237,
+      "transactionCount": 3,
+      "totalVolume": 1363000,
+      "tier": "High"
+    },
+    {
+      "name": "أجا",
+      "avgPriceM2": 1195,
+      "transactionCount": 54,
+      "totalVolume": 44192504.1,
+      "tier": "Medium"
+    },
+    {
+      "name": "الخزامى",
+      "avgPriceM2": 1161,
+      "transactionCount": 18,
+      "totalVolume": 9868202,
+      "tier": "Medium"
+    },
+    {
+      "name": "قرطبة",
+      "avgPriceM2": 1121,
+      "transactionCount": 9,
+      "totalVolume": 4972500,
+      "tier": "Medium"
+    },
+    {
+      "name": "السمراء",
+      "avgPriceM2": 1110,
+      "transactionCount": 3,
+      "totalVolume": 2194237,
+      "tier": "Medium"
+    },
+    {
+      "name": "النفل",
+      "avgPriceM2": 1101,
+      "transactionCount": 10,
+      "totalVolume": 5005000,
+      "tier": "Medium"
+    },
+    {
+      "name": "الوادي",
+      "avgPriceM2": 1081,
+      "transactionCount": 24,
+      "totalVolume": 12181823.41,
+      "tier": "Medium"
+    },
+    {
+      "name": "النعام",
+      "avgPriceM2": 1039,
+      "transactionCount": 1,
+      "totalVolume": 233000,
+      "tier": "Medium"
+    },
+    {
+      "name": "الياسمين",
+      "avgPriceM2": 955,
+      "transactionCount": 6,
+      "totalVolume": 2569500,
+      "tier": "Medium"
+    },
+    {
+      "name": "الأندلس",
+      "avgPriceM2": 949,
+      "transactionCount": 1,
+      "totalVolume": 2090000,
+      "tier": "Medium"
+    },
+    {
+      "name": "الرصف",
+      "avgPriceM2": 879,
+      "transactionCount": 4,
+      "totalVolume": 1867408,
+      "tier": "Medium"
+    },
+    {
+      "name": "الزبارة",
+      "avgPriceM2": 867,
+      "transactionCount": 4,
+      "totalVolume": 1405000,
+      "tier": "Medium"
+    },
+    {
+      "name": "درة مشار",
+      "avgPriceM2": 841,
+      "transactionCount": 2,
+      "totalVolume": 960000,
+      "tier": "Medium"
+    },
+    {
+      "name": "اللقيطة",
+      "avgPriceM2": 765,
+      "transactionCount": 4,
+      "totalVolume": 1775000,
+      "tier": "Medium"
+    },
+    {
+      "name": "القيروان",
+      "avgPriceM2": 727,
+      "transactionCount": 1,
+      "totalVolume": 480000,
+      "tier": "Medium"
+    },
+    {
+      "name": "صلاح الدين",
+      "avgPriceM2": 720,
+      "transactionCount": 1,
+      "totalVolume": 400000,
+      "tier": "Medium"
+    },
+    {
+      "name": "لؤلؤه الخزامى",
+      "avgPriceM2": 630,
+      "transactionCount": 1,
+      "totalVolume": 278000,
+      "tier": "Medium"
+    },
+    {
+      "name": "ضاحية الملك فهد",
+      "avgPriceM2": 626,
+      "transactionCount": 13,
+      "totalVolume": 5275419,
+      "tier": "Medium"
+    },
+    {
+      "name": "السويفلة",
+      "avgPriceM2": 621,
+      "transactionCount": 21,
+      "totalVolume": 8770000,
+      "tier": "Medium"
+    },
+    {
+      "name": "الخماشية",
+      "avgPriceM2": 573,
+      "transactionCount": 4,
+      "totalVolume": 1116000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "أركان",
+      "avgPriceM2": 554,
+      "transactionCount": 52,
+      "totalVolume": 14919520,
+      "tier": "Emerging"
+    },
+    {
+      "name": "مشار",
+      "avgPriceM2": 485,
+      "transactionCount": 1,
+      "totalVolume": 300000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "الوسيطا",
+      "avgPriceM2": 473,
+      "transactionCount": 4,
+      "totalVolume": 710000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "الشروق",
+      "avgPriceM2": 467,
+      "transactionCount": 1,
+      "totalVolume": 350000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "النصية",
+      "avgPriceM2": 463,
+      "transactionCount": 5,
+      "totalVolume": 1126150,
+      "tier": "Emerging"
+    },
+    {
+      "name": "غياض",
+      "avgPriceM2": 441,
+      "transactionCount": 1,
+      "totalVolume": 120000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "المدائن",
+      "avgPriceM2": 430,
+      "transactionCount": 13,
+      "totalVolume": 3680000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "الجثامية",
+      "avgPriceM2": 421,
+      "transactionCount": 2,
+      "totalVolume": 420500,
+      "tier": "Emerging"
+    },
+    {
+      "name": "قفار",
+      "avgPriceM2": 368,
+      "transactionCount": 3,
+      "totalVolume": 523000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "درة الودي",
+      "avgPriceM2": 300,
+      "transactionCount": 1,
+      "totalVolume": 140000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "الودي",
+      "avgPriceM2": 212,
+      "transactionCount": 42,
+      "totalVolume": 4797033,
+      "tier": "Emerging"
+    },
+    {
+      "name": "عقده",
+      "avgPriceM2": 180,
+      "transactionCount": 3,
+      "totalVolume": 1802818,
+      "tier": "Emerging"
+    },
+    {
+      "name": "التاسع في جبه",
+      "avgPriceM2": 48,
+      "transactionCount": 1,
+      "totalVolume": 50000,
+      "tier": "Emerging"
+    },
+    {
+      "name": "أخرى",
+      "avgPriceM2": 10,
+      "transactionCount": 213,
+      "totalVolume": 51973562.980000004,
+      "tier": "Emerging"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Fully Serviced",
+      "value": 15,
+      "fill": "#10b981"
+    },
+    {
+      "name": "Electricity Only (No Water)",
+      "value": 0,
+      "fill": "#f59e0b"
+    },
+    {
+      "name": "Unserviced",
+      "value": 132,
+      "fill": "#ef4444"
+    }
+  ],
+  "tourism": [
+    {
+      "name": "International Spend",
+      "value": 2008,
+      "fill": "#10b981",
+      "type": "International"
+    },
+    {
+      "name": "Domestic Spend",
+      "value": 1213,
+      "fill": "#3b82f6",
+      "type": "Domestic"
+    }
+  ],
+  "financials": {
+    "realEstateGrowth": [
+      {
+        "name": "الخزامى",
+        "priceQ3": 1161,
+        "priceQ2": 232,
+        "growth": 400.4,
+        "volume": 9868202,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "لؤلؤة قفار",
+        "priceQ3": 1412,
+        "priceQ2": 414,
+        "growth": 241.1,
+        "volume": 1764990,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "العليا",
+        "priceQ3": 3441,
+        "priceQ2": 1014,
+        "growth": 239.3,
+        "volume": 2300000,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "العزيزية",
+        "priceQ3": 1775,
+        "priceQ2": 662,
+        "growth": 168.1,
+        "volume": 1170000,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "التاسع في جبه",
+        "priceQ3": 48,
+        "priceQ2": 18,
+        "growth": 166.7,
+        "volume": 50000,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "الملك عبدالله",
+        "priceQ3": 1673,
+        "priceQ2": 700,
+        "growth": 139,
+        "volume": 1670000,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "المجد",
+        "priceQ3": 1700,
+        "priceQ2": 779,
+        "growth": 118.2,
+        "volume": 849966,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "إشبيليا",
+        "priceQ3": 2801,
+        "priceQ2": 1356,
+        "growth": 106.6,
+        "volume": 8704587,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "الجبل",
+        "priceQ3": 1304,
+        "priceQ2": 747,
+        "growth": 74.6,
+        "volume": 20424764,
+        "isHotspot": true,
+        "isOpportunity": false
+      },
+      {
+        "name": "القيروان",
+        "priceQ3": 727,
+        "priceQ2": 461,
+        "growth": 57.7,
+        "volume": 480000,
+        "isHotspot": true,
+        "isOpportunity": false
+      }
+    ],
+    "tourismYield": [
+      {
+        "name": "2015",
+        "value": 885
+      },
+      {
+        "name": "2016",
+        "value": 952
+      },
+      {
+        "name": "2017",
+        "value": 835
+      },
+      {
+        "name": "2018",
+        "value": 989
+      },
+      {
+        "name": "2019",
+        "value": 1048
+      },
+      {
+        "name": "2020",
+        "value": 905
+      },
+      {
+        "name": "2021",
+        "value": 1442
+      },
+      {
+        "name": "2022",
+        "value": 1865
+      },
+      {
+        "name": "2023",
+        "value": 1514
+      },
+      {
+        "name": "2024",
+        "value": 1385
+      },
+      {
+        "name": "H1 2025",
+        "value": 1213
+      }
+    ]
+  },
+  "gems": {
+    "districts": [
+      {
+        "name": "التاسع في جبه",
+        "priceQ3": 48,
+        "priceQ2": 18,
+        "growth": 166.7,
+        "volume": 50000,
+        "isHotspot": true,
+        "isOpportunity": false,
+        "gemScore": 100,
+        "type": "Real Estate"
+      },
+      {
+        "name": "القيروان",
+        "priceQ3": 727,
+        "priceQ2": 461,
+        "growth": 57.7,
+        "volume": 480000,
+        "isHotspot": true,
+        "isOpportunity": false,
+        "gemScore": 88,
+        "type": "Real Estate"
+      },
+      {
+        "name": "الخزامى",
+        "priceQ3": 1161,
+        "priceQ2": 232,
+        "growth": 400.4,
+        "volume": 9868202,
+        "isHotspot": true,
+        "isOpportunity": false,
+        "gemScore": 77,
+        "type": "Real Estate"
+      }
+    ],
+    "tourismOps": {
+      "city": {
+        "name": "Hail City",
+        "spend": 1201,
+        "visitors": 1043
+      },
+      "rural": {
+        "name": "Rural Hail",
+        "spend": 1576,
+        "visitors": 33
+      }
+    }
+  },
+  "legacyAnalysis": {
+    "villageStats": {
+      "totalVillages": 628,
+      "services": {
+        "water": {
+          "available": 131,
+          "notAvailable": 497
+        },
+        "electricity": {
+          "available": 612,
+          "notAvailable": 16
+        },
+        "internet": {
+          "available": 249,
+          "notAvailable": 379
+        },
+        "cellPhone": {
+          "available": 0,
+          "notAvailable": 0
+        }
+      },
+      "villages": [
+        {
+          "name": "Agricultural directorate",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "1",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "Yes",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "No"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        },
+        {
+          "name": "0",
+          "water": "No",
+          "electricity": "Yes"
+        }
+      ]
+    },
+    "trend": {
+      "legacy2017": {
+        "waterDeficit": 79,
+        "elecDeficit": 3
+      },
+      "current2024": {
+        "generalDeficit": 90
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-02-01T11:15:47.592Z",
+    "dataSource": "Cleaned_Data Repository & Sources"
+  }
+}
